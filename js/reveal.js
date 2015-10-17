@@ -73,7 +73,7 @@
 			touch: true,
 
 			// Loop the presentation
-			loop: false,
+			loop: true,
 
 			// Change the presentation direction to be RTL
 			rtl: false,
@@ -98,7 +98,7 @@
 			autoSlide: 0,
 
 			// Stop auto-sliding after user input
-			autoSlideStoppable: true,
+			autoSlideStoppable: false,
 
 			// Enable slide navigation via mouse wheel
 			mouseWheel: false,
